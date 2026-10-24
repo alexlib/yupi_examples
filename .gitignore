@@ -151,3 +151,4 @@ cameras
 poetry.lock
 
 *.json
+uv.lock
